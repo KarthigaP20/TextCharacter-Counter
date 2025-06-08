@@ -63,7 +63,7 @@ TEXTAREA/
 
 ## 🚀 Live Demo
 
-> Coming soon… (or add your GitHub Pages/live URL here)
+ Live Link (https://karthigap20.github.io/TextCharacter-Counter/)
 
 ## 💬 Feedback
 
